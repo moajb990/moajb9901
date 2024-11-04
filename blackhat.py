@@ -35,7 +35,7 @@ print ('''\033[1;31m
     | [+]      black hat         [+]  |
     | [+]      palestine         [+]  |
     +---------------------------------+
-youtube:https://youtube.com/channel/UC6nD9UyRwgMMciIQTkP-ZOg
+
 \033[1;31m                          ''')
 sleep(2)
 print ('''\033[1;35m
